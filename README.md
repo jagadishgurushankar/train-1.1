@@ -9,4 +9,7 @@ This is a structured HR (Human Resources) employee master dataset where each row
 	
 - <a href='https://github.com/jagadishgurushankar/train-1.1/blob/main/kpi-company-cleaned.xlsx'>Dataset</a>
 
+# sample image
+![Uploading 1.jpg…]()
+
   
