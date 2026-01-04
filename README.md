@@ -11,7 +11,8 @@ This is a structured HR (Human Resources) employee master dataset where each row
 
 # sample image
 
-![1](https://github.com/user-attachments/assets/a29e5858-e8f3-4487-bc24-ae7b0c081e75)
+<img width="1200" height="628" alt="eFront_20231220_1200x628-1" src="https://github.com/user-attachments/assets/df811682-a16c-4664-acf0-1625617f6257" />
+
 
 
   
